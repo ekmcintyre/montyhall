@@ -7,9 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "ekmcintyre99@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0002-0901-5968"))
-Description: This package randomly generates games simulating 
-    the Monty Hall Problem. Functions allow you to run individual 
-    games and run the game in a loop.
+Description: This package randomly generates games simulating the Monty Hall Problem. Functions allow you to run individual games and run the game in a loop.
 Depends: 
    dplyr
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
